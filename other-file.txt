@@ -2,4 +2,4 @@ this is a TXT file
 
 He metido este cambio en la rama
 
-Linea metida en master
+Linea metida en la rama
